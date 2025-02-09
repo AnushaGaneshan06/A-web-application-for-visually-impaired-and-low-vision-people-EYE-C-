@@ -7,6 +7,7 @@ EYE-C is an advanced AI-powered application designed to assist individuals with 
 - **Object Detection** 📷: Real-time object detection using YOLOv8 with audio feedback.
 - **Voice Assistant** 🎤: AI-powered assistant that responds to voice commands, opens websites, and tells jokes.
 - **Text Reader** 📖: Reads aloud text from uploaded documents.
+- **User Authentication** 🔒: Secure login and registration system.
 - **Intuitive Interface** 🏠: Streamlit-based user-friendly interface.
 
 ## Installation & Setup
@@ -15,8 +16,8 @@ Ensure Python is installed on your system. Download it from [Python.org](https:/
 
 ### Step 1: Clone the Repository
 ```bash
-git clone https://github.com/yourusername/EYE-C.git
-cd EYE-C
+git clone https://github.com/AnushaGaneshan06/A-web-application-for-visually-impaired-and-low-vision-people-EYE-C-.git
+cd A-web-application-for-visually-impaired-and-low-vision-people-EYE-C-
 ```
 
 ### Step 2: Install Dependencies
@@ -71,6 +72,7 @@ For any inquiries or suggestions, feel free to reach out:
 
 ---
 ⭐ If you find this project valuable, consider starring it on GitHub! ⭐
+
 
 
 
